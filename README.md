@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/OS-*nix/windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5262)
