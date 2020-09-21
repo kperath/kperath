@@ -1,7 +1,7 @@
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/OS-*nix/windows-informational?style=flat&logo=linux&logoColor=white&color=FF5262)
-![](https://img.shields.io/badge/Editor-vim/vscode/Intellij-informational?style=flat&logo=vim&logoColor=white&color=17CAF5)
+![](https://img.shields.io/badge/Editor-vim/vscode/intellij-informational?style=flat&logo=vim&logoColor=white&color=17CAF5)
 
 <strong>My Current Stack for App Development:</strong>
 
