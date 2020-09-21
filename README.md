@@ -5,9 +5,8 @@
 ![](https://img.shields.io/badge/OS-*nix/windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5262)
 ![](https://img.shields.io/badge/Editor-vim/vscode/Intellij-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5262)
 
-My Current Stack:
+My Current Stack for App Development:
 
-![](https://img.shields.io/badge/Backend_Framework-java_spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#92FA65)
-![](https://img.shields.io/badge/Frontend_Library-react-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=17CAF5)
-![](https://img.shields.io/badge/Frontend_Framework-angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=17CAF5)
+![](https://img.shields.io/badge/Backend-java_spring/node_express-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#92FA65)
+![](https://img.shields.io/badge/Frontend-react/angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5262)
 ![](https://img.shields.io/badge/State_Management-redux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=C568F5)
