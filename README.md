@@ -1,4 +1,5 @@
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
 
 ![](https://img.shields.io/badge/OS-*nix/windows-informational?style=flat&logo=linux&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Editor-vim/vscode/intellij-informational?style=flat&logo=vim&logoColor=white&color=black)
