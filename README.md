@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Frontend:-React*-informational?style=for-the-badge&logo=react&color=black&labelColor=black)
 ![](https://img.shields.io/badge/State:-Redux-informational?style=for-the-badge&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Database:-Postgres-informational?style=for-the-badge&logoColor=blue&logo=postgresql&color=black&labelColor=black)
-![](https://img.shields.io/badge/Server:-Apache-informational?style=for-the-badge&logoColor=orange&logo=apache&color=black&labelColor=black)
+<!--![](https://img.shields.io/badge/Server:-Apache-informational?style=for-the-badge&logoColor=orange&logo=apache&color=black&labelColor=black)-->
 
 ###### \* Also comfortable with: Node Express and Angular
 <!--
@@ -22,5 +22,5 @@ Consider adding your personal site under a section called: My site (made with re
 
 <!-- might remove angular, depending on if I use it during work -->
 
-<!-- Add Apache once you get confident using HTTP Service) -->
+<!-- Add Apache once you get confident using HTTP Service and maybe mention Docker and Kubernetes experience -->
 
