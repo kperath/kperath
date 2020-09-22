@@ -8,8 +8,8 @@
 
 ![](https://img.shields.io/badge/Backend:-java_spring/node_express-informational?style=flat-square&logo=spring&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Frontend:-react/angular-informational?style=flat-square&logo=react&color=black&labelColor=black)
-![](https://img.shields.io/badge/State_Management:-redux-informational?style=flat-square&logoColor=white&logo=redux&color=black&labelColor=black)
-![](https://img.shields.io/badge/DBMS:-postgres-informational?style=flat-square&color=black&labelColor=black)
+![](https://img.shields.io/badge/State_Management:-redux-informational?style=flat-square&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
+![](https://img.shields.io/badge/DBMS:-postgres-informational?style=flat-square&logoColor=blue&logo=postgresql&color=black&labelColor=black)
 
 <!--
 Consider Adding: LinkedIn under a section called Contact Me
