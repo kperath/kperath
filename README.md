@@ -1,15 +1,15 @@
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
 
-![](https://img.shields.io/badge/OS:-*nix/windows-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
-![](https://img.shields.io/badge/Editor:-intellij/vscode/vim-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
+![](https://img.shields.io/badge/OS:-Linux/Windows-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
+![](https://img.shields.io/badge/Editor:-Intellij/Vscode/Vim-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
 
 <strong>My Current Stack for App Development:</strong>
 
-![](https://img.shields.io/badge/Backend:-java_spring/node_express-informational?style=flat-square&logo=spring&color=black&labelColor=black)
-![](https://img.shields.io/badge/Frontend:-react/angular-informational?style=flat-square&logo=react&color=black&labelColor=black)
-![](https://img.shields.io/badge/State_Management:-redux-informational?style=flat-square&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
-![](https://img.shields.io/badge/DBMS:-postgres-informational?style=flat-square&logoColor=blue&logo=postgresql&color=black&labelColor=black)
+![](https://img.shields.io/badge/Backend:-Java_Spring/Node_Express-informational?style=flat-square&logo=spring&color=black&labelColor=black)
+![](https://img.shields.io/badge/Frontend:-React/Angular-informational?style=flat-square&logo=react&color=black&labelColor=black)
+![](https://img.shields.io/badge/State_Management:-Redux-informational?style=flat-square&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
+![](https://img.shields.io/badge/DBMS:-Postgres-informational?style=flat-square&logoColor=blue&logo=postgresql&color=black&labelColor=black)
 
 <!--
 Consider Adding: LinkedIn under a section called Contact Me
