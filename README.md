@@ -10,6 +10,10 @@
 ![](https://img.shields.io/badge/State_Management-redux-informational?style=flat&logo=redux&logoColor=white&color=black)
 ![](https://img.shields.io/badge/DBMS-postgres-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=black)
 
-<!-- 
+<!--
 Consider Adding: LinkedIn under a section called Contact Me
+Consider adding your personal site under a section called: My site (made with react and github pages (gatsby? might help with speed))
 -->
+
+<!-- consider this red color: FF5262 -->
+
