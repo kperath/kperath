@@ -18,3 +18,7 @@ Consider adding your personal site under a section called: My site (made with re
 
 <!-- consider this red color: FF5262 -->
 
+<!-- might remove angular, depending on if I use it during work -->
+
+<!-- Add Apache once you get confident using HTTP Service) -->
+
