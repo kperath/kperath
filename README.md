@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Database:-Postgres-informational?style=for-the-badge&logoColor=blue&logo=postgresql&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Server:-Apache-informational?style=for-the-badge&logoColor=orange&logo=apache&color=black&labelColor=black)
 
-\* Also comfortable with: Node Express and Angular
+###### \* Also comfortable with: Node Express and Angular
 <!--
 Consider Adding: LinkedIn under a section called Contact Me
 Consider adding your personal site under a section called: My site (made with react and github pages (gatsby? might help with speed))
