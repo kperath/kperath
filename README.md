@@ -6,10 +6,10 @@
 
 <strong>My Current Stack for App Development:</strong>
 
-![](https://img.shields.io/badge/Backend-java_spring/node_express-informational?style=flat&logo=spring&logoColor=white&color=black)
-![](https://img.shields.io/badge/Frontend-react/angular-informational?style=flat&logo=react&logoColor=white&color=black)
-![](https://img.shields.io/badge/State_Management-redux-informational?style=flat&logo=redux&logoColor=white&color=black)
-![](https://img.shields.io/badge/DBMS-postgres-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=black)
+![](https://img.shields.io/badge/Backend-java_spring/node_express-informational?style=flat&logo=spring&logoColor=white&color=FF5262)
+![](https://img.shields.io/badge/Frontend-react/angular-informational?style=flat&logo=react&logoColor=white&color=FF5262)
+![](https://img.shields.io/badge/State_Management-redux-informational?style=flat&logo=redux&logoColor=white&color=FF5262)
+![](https://img.shields.io/badge/DBMS-postgres-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF5262)
 
 <!--
 Consider Adding: LinkedIn under a section called Contact Me
