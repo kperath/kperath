@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
 
 ![](https://img.shields.io/badge/OS:-*nix/windows-informational?style=flat-square&logo=linux&logoColor=white&color=black&labelColor=black)
-![](https://img.shields.io/badge/Editor:-vim/vscode/intellij-informational?style=flat-square&logo=vim&logoColor=white&color=black)
+![](https://img.shields.io/badge/Editor:-vim/vscode/intellij-informational?style=flat-square&logo=vim&logoColor=white&color=black&labelColor=black)
 
 <strong>My Current Stack for App Development:</strong>
 
