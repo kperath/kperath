@@ -11,6 +11,7 @@ Check out my site! www.kperath.com
 ![](https://img.shields.io/badge/Backend:-Java_Spring*-informational?style=for-the-badge&logo=spring&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Frontend:-React*-informational?style=for-the-badge&logo=react&color=black&labelColor=black)
 ![](https://img.shields.io/badge/State:-Redux-informational?style=for-the-badge&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
+![](https://img.shields.io/badge/Database:-MySQL-informational?style=for-the-badge&logoColor=orange&logo=mysql&color=black&labelColor=black)
 <!--![](https://img.shields.io/badge/Database:-Postgres-informational?style=for-the-badge&logoColor=blue&logo=postgresql&color=black&labelColor=black)-->
 <!--![](https://img.shields.io/badge/Server:-Apache-informational?style=for-the-badge&logoColor=orange&logo=apache&color=black&labelColor=black)-->
 
