@@ -1,4 +1,4 @@
-### Check out my site! www.kperath.com
+### Hey! Check out my site: 👉 www.kperath.com
 
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
