@@ -1,3 +1,5 @@
+Check out my site! www.kperath.com
+
 ![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
 
@@ -9,7 +11,7 @@
 ![](https://img.shields.io/badge/Backend:-Java_Spring*-informational?style=for-the-badge&logo=spring&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Frontend:-React*-informational?style=for-the-badge&logo=react&color=black&labelColor=black)
 ![](https://img.shields.io/badge/State:-Redux-informational?style=for-the-badge&logoColor=CD62F0&logo=redux&color=black&labelColor=black)
-![](https://img.shields.io/badge/Database:-Postgres-informational?style=for-the-badge&logoColor=blue&logo=postgresql&color=black&labelColor=black)
+<!--![](https://img.shields.io/badge/Database:-Postgres-informational?style=for-the-badge&logoColor=blue&logo=postgresql&color=black&labelColor=black)-->
 <!--![](https://img.shields.io/badge/Server:-Apache-informational?style=for-the-badge&logoColor=orange&logo=apache&color=black&labelColor=black)-->
 
 ###### \* Also comfortable with: Node Express and Angular
