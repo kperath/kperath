@@ -1,7 +1,7 @@
 ### Hey! Check out my site: 👉 <a target="_blank" href="http://www.kperath.com">www.kperath.com</a>
 
-![Kpeara's github stats](https://github-readme-stats.vercel.app/api?username=kpeara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpeara&theme=radical&layout=compact)
+![Kperath's github stats](https://github-readme-stats.vercel.app/api?username=kperath&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kperath&theme=radical&layout=compact)
 
 ![](https://img.shields.io/badge/OS:-Linux/Windows-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
 ![](https://img.shields.io/badge/Editor:-Intellij/Vscode/Vim-informational?style=flat-square&logoColor=white&color=black&labelColor=black)
