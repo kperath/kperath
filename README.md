@@ -1,4 +1,4 @@
-### My blog: 👉 <a target="_blank" href="http://www.blog.kperath.com">www.blog.kperath.com</a>
+### My blog: 👉 <a target="_blank" href="http://blog.kperath.com">blog.kperath.com</a>
 
 ![Kperath's github stats](https://github-readme-stats.vercel.app/api?username=kperath&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kperath&theme=radical&layout=compact)
