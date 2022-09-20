@@ -1,4 +1,4 @@
-### Hey! Check out my site: 👉 <a target="_blank" href="http://www.kperath.com">www.kperath.com</a>
+### My blog: 👉 <a target="_blank" href="http://www.blog.kperath.com">www.kperath.com</a>
 
 ![Kperath's github stats](https://github-readme-stats.vercel.app/api?username=kperath&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kperath&theme=radical&layout=compact)
